@@ -1,5 +1,4 @@
-![面白い猫の画像](https://placekitten.com/200/300)
-
+![ダンス](https://media.giphy.com/media/3ohjV4krtPwsqg4Jdy/giphy.gif)
 
 <!--
 **guruguruge/guruguruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
