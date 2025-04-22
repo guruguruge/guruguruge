@@ -1,4 +1,4 @@
-![ダンス](https://media.giphy.com/media/3ohjV4krtPwsqg4Jdy/giphy.gif)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!--
 **guruguruge/guruguruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
