@@ -1,5 +1,4 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 <!--
 **guruguruge/guruguruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
