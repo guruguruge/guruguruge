@@ -1,4 +1,5 @@
-![GIF](https://media.giphy.com/media/8Qngl8vmeq42I/giphy.gif)
+![面白いGIF](https://media.giphy.com/media/3o6ZsV1vGizQwDsOys/giphy.gif)
+
 
 <!--
 **guruguruge/guruguruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
