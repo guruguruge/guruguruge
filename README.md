@@ -1,4 +1,4 @@
-![面白いGIF](https://media.giphy.com/media/3o6ZsV1vGizQwDsOys/giphy.gif)
+![gif](https://media.giphy.com/media/3o6ZsV1vGizQwDsOys/giphy.gif)
 
 
 <!--
