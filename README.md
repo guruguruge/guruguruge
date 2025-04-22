@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/3o6ZsV1vGizQwDsOys/giphy.gif)
+![面白い猫の画像](https://placekitten.com/200/300)
 
 
 <!--
