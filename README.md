@@ -1,5 +1,6 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruguruge&show_icons=true&count_private=true&hide=prs&theme=radical)
 ## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)
 
 
 
