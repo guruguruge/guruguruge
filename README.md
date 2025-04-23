@@ -1,6 +1,10 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruguruge&show_icons=true&count_private=true&hide=prs&theme=radical)
-## 🐍 Contribution Python
-![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Python  
+![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)  
+<h1>🐊👑</h1>
+
+![King K Rool](https://github.com/user-attachments/assets/030f68f8-bd91-4d6a-bbf6-ae3c4643548f)
+
 
 
 
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
