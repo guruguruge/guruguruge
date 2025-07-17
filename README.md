@@ -1,10 +1,12 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruguruge&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+<a href="https://github.com/guruguruge/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=guruguruge&count_private=true&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruguruge&layout=compact&theme=synthwave" />
+<a>
+
+    
 ### 🐍 Contribution Python  
 ![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)  
-<h1>🐊👑</h1>
-
-![King K Rool](https://github.com/user-attachments/assets/030f68f8-bd91-4d6a-bbf6-ae3c4643548f)
-
 
 
 
