@@ -1,15 +1,13 @@
-
+### Github stats
 <a href="https://github.com/guruguruge/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=guruguruge&count_private=true&show_icons=true&theme=synthwave" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruguruge&layout=compact&theme=synthwave" />
 <a>
 
-    
 ### 🐍 Contribution Python  
 ![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)  
 
 ### 自己紹介
-
 筑波大学大学院で**材料工学**を専攻し、**マテリアルズ・インフォマティクス（MI）** 分野での研究開発を目指している学生です。
 
 現在は、CSの基礎を固めるため**42 Tokyo**にてC言語を用いた課題に取り組む傍ら、個人的にPythonを用いた**機械学習**の学習を進めています。
