@@ -8,6 +8,7 @@
 ### 🐍 Contribution Python  
 ![snake gif](https://raw.githubusercontent.com/guruguruge/guruguruge/output/github-contribution-grid-snake.svg)  
 
+### 自己紹介
 
 筑波大学大学院で**材料工学**を専攻し、**マテリアルズ・インフォマティクス（MI）** 分野での研究開発を目指している学生です。
 
