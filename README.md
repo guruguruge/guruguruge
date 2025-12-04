@@ -1,6 +1,6 @@
 ### Github stats
 <a href="https://github.com/guruguruge/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruguruge&count_private=true&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guruguruge&show_icons=true&theme=synthwave" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruguruge&layout=compact&theme=synthwave" />
 <a>
 
